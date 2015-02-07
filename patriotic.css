@@ -35,5 +35,9 @@ body{
 }
 
 .nav-bar li a:hover{
-   background-color:red;
+    background-color:red;
+}
+
+#bio{
+    width:60%;
 }
